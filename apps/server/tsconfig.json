@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        "target": "ES2017",
+        "module": "NodeNext",
+        "outDir": "dist",
+        "moduleResolution": "NodeNext",
+        "preserveConstEnums": true,
+        "resolveJsonModule": true,
+        "allowSyntheticDefaultImports": true,
+        "esModuleInterop": true,
+        "skipLibCheck": true,
+        "jsx": "react-jsx"
+    }
+}
+
